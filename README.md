@@ -1,0 +1,1 @@
+# IoT-Based-Climate-Adaptive-Recommendation-System-for-Crop-Using-GIS-and-Predictive-Analysis
